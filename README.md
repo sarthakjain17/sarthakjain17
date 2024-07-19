@@ -94,20 +94,6 @@
 </div> 
 
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sarthakjain17&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-
-
-<br/>
-
-
-![](https://github-readme-stats.vercel.app/api?username=sarthakjain17&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?sarthakjain17&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakjain17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ## **CONNECT WITH ME**:
 <p align="left">
 <a href = "https://www.linkedin.com/in/sarthak-jain-8241ab24a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
